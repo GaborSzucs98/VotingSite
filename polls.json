@@ -1,0 +1,66 @@
+{
+    "poll1": {
+        "id": "poll1",
+        "question": "Szeretn\u00e9d-e, hogy legyen INGYEN P\u00f6tty\u00f6s automata a L\u00e1gym\u00e1nyoson?",
+        "isMultiple": false,
+        "createdAt": "2022-12-04",
+        "deadline": "2022-12-12",
+        "answers": {
+            "igen": 2,
+            "nem": 1
+        },
+        "voted": [
+            "userid1",
+            "userid2"
+        ]
+    },
+    "poll2": {
+        "id": "poll2",
+        "question": "Miket tartalmazzon a P\u00f6tty\u00f6s automata?",
+        "isMultiple": true,
+        "createdAt": "2022-12-05",
+        "deadline": "2024-12-13",
+        "answers": {
+            "Klasszikus T\u00far\u00f3 Rudi": 3,
+            "Karamell\u00e1s Guru": 3,
+            "Tejszelet": 4,
+            "Fitness Rudi": 2
+        },
+        "voted": [
+            "userid1",
+            "userid2",
+            "userid3",
+            "admin"
+        ]
+    },
+    "poll3": {
+        "id": "poll3",
+        "question": "Mennyi?",
+        "isMultiple": false,
+        "createdAt": "2023-01-14",
+        "deadline": "2023-11-11",
+        "answers": {
+            "ennyi": 0,
+            "annyi": 0,
+            "amannyi": 0,
+            "megannyi": 2
+        },
+        "voted": [
+            "Hutao"
+        ]
+    },
+    "poll4": {
+        "id": "poll4",
+        "question": "Mi\u00e9rt?",
+        "isMultiple": false,
+        "createdAt": "2023-01-14",
+        "deadline": "2023-01-15",
+        "answers": {
+            "ez\u00e9rt": 1,
+            "az\u00e9rt": 0
+        },
+        "voted": [
+            "Hutao"
+        ]
+    }
+}

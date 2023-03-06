@@ -1,0 +1,36 @@
+body {
+    background-image: url('question.jpg'); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    margin: 0px;
+    background-color: orange;
+    height: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.polls {
+    margin: auto;
+    margin-bottom: 5px; 
+    background-color: white; 
+    width: 90%; 
+    height: auto; 
+    border: 2px solid black; 
+    padding: 10px; display: flex; 
+    justify-content:space-around; 
+    align-items: center;
+}
+
+.ans {
+    margin: 0px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}

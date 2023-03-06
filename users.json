@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "username": "admin",
+        "isAdmin": true,
+        "email": "admin@admin.com",
+        "password": "admin"
+    },
+    {
+        "id": 1,
+        "username": "Hutao",
+        "isAdmin": false,
+        "email": "hutao@wangsheng.com",
+        "password": "tada"
+    },
+    {
+        "id": 2,
+        "username": "user2",
+        "isAdmin": false,
+        "email": "email2@email.hu",
+        "password": "user2"
+    },
+    {
+        "id": 3,
+        "username": "user3",
+        "isAdmin": false,
+        "email": "email3@email.hu",
+        "password": "user3"
+        
+    },
+    {
+        "id": 4,
+        "username": "Yelan",
+        "isAdmin": false,
+        "email": "yelan@qixing.com",
+        "password": "shenhe"
+    }
+]
